@@ -1,15 +1,5 @@
-# Ignore virtual environments
-venv/
+# In your .gitignore
 .env
-
-# Python cache files
-__pycache__/
 *.pyc
-
-# IDE/editor settings
-.vscode/
-.idea/
-
-# OS files
-.DS_Store
-Thumbs.db
+__pycache__/
+venv/
